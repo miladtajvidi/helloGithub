@@ -1,6 +1,6 @@
 no; %% This is the input cellar for accepting new input numbers.
 sum=0; %% This is their summation that will be put in the "sum" variable.
-counter=1; %% this is the counter and has been set to 1 in the first step.
+counter=0; %% this is the counter and has been set to 1 in the first step.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
