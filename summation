@@ -5,7 +5,13 @@ sum; %% This is their summation that will be put in the "sum" variable.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-check the numbers to see if they are integers; %% If yes, make the calculation; if No say "This is not a number" to the user.
+check the numbers to see if they are integers;
+
+If yes, make the calculation; 
+
+
+
+if No say "This is not a number" to the user.
 
 
 
