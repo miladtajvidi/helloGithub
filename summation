@@ -1,5 +1,5 @@
-number 1; %% This is the first number.
-number 2; %% This is the second number.
+no1; %% This is the first number.
+no2; %% This is the second number.
 sum; %% This is their summation that will be put in the "sum" variable.
 
 
