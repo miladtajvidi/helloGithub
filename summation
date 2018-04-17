@@ -45,9 +45,9 @@ time; %%we get the time from the computer;
 
 if (6 am < time && time < 12 pm)
 {Print "Good Morning"}
-else if (12 pm < time && time < 6 pm)
+else if (12 pm <= time && time < 6 pm)
 {Print "Good Afternoon"}
-else if (6pm < time && time <10 am  )
+else if (6pm <= time && time <10 am )
 {Print "Good Evening"}
 els 
 {print "Good Night"}
