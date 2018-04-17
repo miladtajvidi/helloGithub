@@ -25,6 +25,7 @@ if No
 {
 
 say "This is not a number" to the user;
+go to line 7;
 
 }
 
