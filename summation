@@ -13,6 +13,10 @@ If yes, make the calculation;
 
 if No say "This is not a number" to the user.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+print "your total is" sum ;
+
 
 
 
