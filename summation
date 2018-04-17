@@ -1,22 +1,37 @@
-no1; %% This is the first number.
-no2; %% This is the second number.
-sum; %% This is their summation that will be put in the "sum" variable.
-
+no; %% This is the input cellar for accepting new input numbers.
+sum=0; %% This is their summation that will be put in the "sum" variable.
+counter=1; %% this is the counter and has been set to 1 in the first step.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-check the numbers to see if they are integers;
+check the input to see if it is an integer;
+If yes 
+{
 
-If yes, make the calculation; 
+
+no=input;
+sum=sum+no; 
+counter=counter+1;
+if (counter<100) 
+{go to line 7;}
+else if (counter == 100)
+break;
 
 
 
-if No say "This is not a number" to the user.
+}
+
+if No
+{
+
+say "This is not a number" to the user;
+
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-print "your total is" sum ;
 
+Print "yout Total is : " sum ;
 
 
 
